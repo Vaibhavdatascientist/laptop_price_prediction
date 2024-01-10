@@ -18,3 +18,7 @@ Model Building: Employed regression models including Linear Regression, Decision
 Model Evaluation: Assessed models using metrics like Mean Squared Error, Mean Absolute Error, and R-squared.
 
 Hyperparameter Tuning: Optimized the Random Forest Regressor using GridSearchCV.
+
+**Feedback and Contributions** -  Feedback, suggestions, and contributions are highly appreciated! Feel free to open issues or pull requests for improvements or additional features.
+
+
